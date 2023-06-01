@@ -12,8 +12,9 @@ package exerciciosFaccat;
 public class Exercicio26Faccat {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
+		System.out.println("");
+		
 	}
 
 }
